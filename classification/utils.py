@@ -33,7 +33,7 @@ date_time = ['TranTime', 'PostTime', 'TransmissionDateTime', 'TimeLocalTransacti
 label = 'FraudIndicator'
 
 
-def model_generator(dataset, model, model_name = "Classifier"):
+def model_generator(dataset, model, model_name = "FinalClassifier"):
     with joblib.parallel_backend('threading', n_jobs = -1):
         num_pipe = Pipeline([
             ('num_imputer', SimpleImputer(strategy='median')),
