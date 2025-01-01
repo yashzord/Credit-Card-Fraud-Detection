@@ -13,17 +13,17 @@ A demonstration of building a Credit Card Fraud Detection system using Python, s
 
 ## Table of Contents
 
-1. [Overview](#overview)  
-2. [Folder Structure](#folder-structure)  
-3. [Requirements](#requirements)  
-4. [Data Source](#data-source)  
-5. [Model Training & Generation](#model-training--generation)  
-6. [Flask API Usage](#flask-api-usage)  
-7. [Testing the API](#testing-the-api)  
-8. [Notes on FinalClassifier.joblib](#notes-on-finalclassifierjoblib)  
-9. [Project Notebooks](#project-notebooks)  
-10. [Contributing](#contributing)  
-11. [License](#license)  
+1. [Overview](#1-overview)  
+2. [Folder Structure](#2-folder-structure)  
+3. [Requirements](#3-requirements)  
+4. [Data Source](#4-data-source)  
+5. [Model Training & Generation](#5-model-training--generation)  
+6. [Flask API Usage](#6-flask-api-usage)  
+7. [Testing the API](#7-testing-the-api)  
+8. [Notes on FinalClassifier.joblib](#8-notes-on-finalclassifierjoblib)  
+9. [Project Notebooks](#9-project-notebooks)  
+10. [Contributing](#10-contributing)  
+11. [License](#11-license)   
 
 ---
 
